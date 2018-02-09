@@ -1,6 +1,6 @@
 
-# DEV_FAEDER
-🤖:exclamation: كيفية تنصيب سورس DEVFAEDER تيجي الجديد
+# Dev-Ja-gu-ar
+🤖:exclamation: كيفية تنصيب سورس Ja-gu-ar تيجي الجديد
 
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
@@ -22,12 +22,12 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :sa: بـعـديـن خـلـي / وانتر
-git clone https://github.com/hackr2009/DEV_FAEDER.git
+git clone https://github.com/mis-tar/Ja-gu-ar.git
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :cyclone: وراهه خـلـي هذا كود / وانتر
 
-cd DEV_FAEDER
+cd Ja-gu-ar
 
 :wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash::heavy_minus_sign::wavy_dash:
 :diamond_shape_with_a_dot_inside: بـعـديـن خـلـي هاي / وانتر
